@@ -1,3 +1,4 @@
+
 // Array para armazenar os nomes dos amigos
 let amigos = [];
 
@@ -77,4 +78,5 @@ document.getElementById('amigo').addEventListener('keydown', function (event) {
     if (event.key === 'Enter') {
         adicionarAmigo(); // Chama a função para adicionar o nome
     }
+
 });
