@@ -69,7 +69,8 @@ function zerarLista() {
     resultado.innerHTML = '';
 
     // Exibe uma mensagem de confirmação (opcional)
-    alert('Lista de sorteio zerada com sucesso!');
+    alert('Lista de sorteio zerada com sucesso!');git push origin main
+    
 }
 
 // Adiciona um event listener para o campo de entrada
